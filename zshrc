@@ -21,7 +21,7 @@ alias ntfl="cls; cowsay -f ~/haruhi.cow notimeforlove"
 alias save="-e 'optipng $f'"
 alias sprunge="curl -F 'sprunge=<-' http://sprunge.us"
 alias screenfetch="screenfetch -c 12"
-
+alias push="git push" $1 "master"
 
 
 ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets pattern cursor)
