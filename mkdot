@@ -1,0 +1,18 @@
+cd $HOME/build
+git clone git://github.com/speccy/daze/
+ln -s $HOME/build/daze $HOME/.config/awesome/daze  
+
+dir=~/build/dotfiles                    
+files="vimrc config ncmpcpp Xresources zshrc zprezto zpreztorc zshenv"    
+##########
+
+# change to the dotfiles directory
+echo "Changing to the $dir directory"
+cd $dir
+echo "...done"
+
+# move any existing dotfiles in homedir to dotfiles_old directory, then create symlinks 
+for file in $files; do
+    echo "Creating symlink to $file in home directory."
+    ln -s $dir/$file ~/.$file
+done
