@@ -1,3 +1,3 @@
-[submodule "daze"]
-	path = daze
-	url = git://github.com/speccy/daze.git
+[submodule "config/awesome/daze"]
+	path = config/awesome/daze
+	url = git://github.com/speccy/daze
