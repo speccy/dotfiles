@@ -1,0 +1,164 @@
+experimental rock band formed in Tokyo in 1992.  The band's original lineup consisted of Atsuo, Takeshi, Wata, and Nagata who was the band's original drummer.  After his departure, Atsuo took over drums and the lineup has remained consistent to this day.  Boris draw influence from a huge variety of styles including, but not limited to, psychedelic rock, punk, sludge, doom metal, drone, pop, noise, shoegaze, and ambient.  The band's name is taken from a song on Melvins' album, Bullhead. 
+
+        Read more about Boris on Last.fm.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+
+Similar artists:
+
+ * Atsuo (http://www.last.fm/music/Boris+With+Merzbow)
+ * Takeshi (http://www.last.fm/music/Boris+with+Michio+Kurihara)
+ * Wata (http://www.last.fm/music/Sunn+O)))+&amp;+Boris)
+ * Nagata (http://www.last.fm/music/Barebones)
+ * Boris With Merzbow (http://www.last.fm/music/Rollo)
+ * Boris with Michio Kurihara (http://www.last.fm/tag/drone)
+ * Sunn O))) & Boris (http://www.last.fm/tag/stoner%20rock)
+ * Barebones (http://www.last.fm/tag/experimental)
+ * Rollo (http://www.last.fm/tag/sludge)
+ * drone (http://www.last.fm/tag/doom%20metal)
+ * stoner rock (l version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<artist>
+  <name>Boris</name>
+          <mbid>1894d66f-81ed-44c1-8c1b-e47e1b736cd1</mbid>
+            <bandmembers>
+                    <member>
+                <name>Atsuo</name>
+                                    <yearfrom>1992</yearfrom>
+                                            </member>
+                    <member>
+                <name>Takeshi</name>
+                                    <yearfrom>1992</yearfrom>
+                                            </member>
+                    <member>
+                <name>Wata</name>
+                                    <yearfrom>1992</yearfrom>
+                                            </member>
+                    <member>
+                <name>Nagata</name>
+                                    <yearfrom>1992</yearfrom>
+                                                    <yearto>1996</yearto>
+                            </member>
+            </bandmembers>
+        <url>http://www.last.fm/music/Boris</url>
+  <image size="small">http://userserve-ak.last.fm/serve/34/43934699.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/43934699.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/43934699.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/43934699.jpg</image>
+  <image size="mega">http://userserve-ak.last.fm/serve/_/43934699/Boris+cropped.jpg</image>
+  <streamable>1</streamable>
+  <ontour>1</ontour>
+  <stats>
+    <listeners>197547</listeners>
+    <playcount>7091261</playcount>
+      </stats>
+
+  <similar>
+	    <artist>
+	  <name>Boris With Merzbow</name>
+	  <url>http://www.last.fm/music/Boris+With+Merzbow</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/66087642.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/66087642.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/66087642.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/66087642.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/66087642/Boris+With+Merzbow+BM.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Boris with Michio Kurihara</name>
+	  <url>http://www.last.fm/music/Boris+with+Michio+Kurihara</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/37081591.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/37081591.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/37081591.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/37081591.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/37081591/Boris+with+Michio+Kurihara+Michio+Blur.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Sunn O))) &amp; Boris</name>
+	  <url>http://www.last.fm/music/Sunn+O)))+&amp;+Boris</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/149850.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/149850.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/149850.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/149850.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/149850/Sunn+O++Boris.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Barebones</name>
+	  <url>http://www.last.fm/music/Barebones</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/23565281.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/23565281.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/23565281.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/23565281.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/23565281/Barebones+13_ap01.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Rollo</name>
+	  <url>http://www.last.fm/music/Rollo</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/45952441.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/45952441.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/45952441.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/45952441.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/45952441/Rollo+Atsuo_woo.png</image>
+	  
+	        	</artist>
+  </similar>
+    <tags>
+        <tag>
+	  <name>drone</name>
+	  <url>http://www.last.fm/tag/drone</url>
+	</tag>
+        <tag>
+	  <name>stoner rock</name>
+	  <url>http://www.last.fm/tag/stoner%20rock</url>
+	</tag>
+        <tag>
+	  <name>experimental</name>
+	  <url>http://www.last.fm/tag/experimental</url>
+	</tag>
+        <tag>
+	  <name>sludge</name>
+	  <url>http://www.last.fm/tag/sludge</url>
+	</tag>
+        <tag>
+	  <name>doom metal</name>
+	  <url>http://www.last.fm/tag/doom%20metal</url>
+	</tag>
+      </tags>
+      <bio>
+        <links>
+        <link rel="original" href="http://www.last.fm/music/Boris/+wiki" />
+    </links>
+                                    <published>Sat, 9 Mar 2013 13:33:19 +0000</published>
+    <summary>
+        <![CDATA[        There are several artists using this name: 1) Boris (ボリス) are a Japanese <a href="http://www.last.fm/tag/experimental%20rock" class="bbcode_tag" rel="tag">experimental rock</a> band formed in Tokyo in 1992.  The band's original lineup consisted of Atsuo, Takeshi, <a href="http://www.last.fm/music/Wata" class="bbcode_artist">Wata</a>, and Nagata who was the band's original drummer.  After his departure, Atsuo took over drums and the lineup has remained consistent to this day.  Boris draw influence from a huge variety of styles including, but not limited to, <a href="http://www.last.fm/tag/psychedelic%20rock" class="bbcode_tag" rel="tag">psychedelic rock</a>, <a href="http://www.last.fm/tag/punk" class="bbcode_tag" rel="tag">punk</a>, <a href="http://www.last.fm/tag/sludge" class="bbcode_tag" rel="tag">sludge</a>, <a href="http://www.last.fm/tag/doom%20metal" class="bbcode_tag" rel="tag">doom metal</a>, <a href="http://www.last.fm/tag/drone" class="bbcode_tag" rel="tag">drone</a>, <a href="http://www.last.fm/tag/pop" class="bbcode_tag" rel="tag">pop</a>, <a href="http://www.last.fm/tag/noise" class="bbcode_tag" rel="tag">noise</a>, <a href="http://www.last.fm/tag/shoegaze" class="bbcode_tag" rel="tag">shoegaze</a>, and <a href="http://www.last.fm/tag/ambient" class="bbcode_tag" rel="tag">ambient</a>.  The band's name is taken from a song on <a href="http://www.last.fm/music/Melvins" class="bbcode_artist">Melvins</a>' album, <a title="Melvins - Bullhead" href="http://www.last.fm/music/Melvins/Bullhead" class="bbcode_album">Bullhead</a>. 
+
+        <a href="http://www.last.fm/music/Boris">Read more about Boris on Last.fm</a>.
+    ]]>
+    </summary>
+    <content>
+            <![CDATA[        There are several artists using this name: 1) Boris (ボリス) are a Japanese <a href="http://www.last.fm/tag/experimental%20rock" class="bbcode_tag" rel="tag">experimental rock</a> band formed in Tokyo in 1992.  The band's original lineup consisted of Atsuo, Takeshi, <a href="http://www.last.fm/music/Wata" class="bbcode_artist">Wata</a>, and Nagata who was the band's original drummer.  After his departure, Atsuo took over drums and the lineup has remained consistent to this day.  Boris draw influence from a huge variety of styles including, but not limited to, <a href="http://www.last.fm/tag/psychedelic%20rock" class="bbcode_tag" rel="tag">psychedelic rock</a>, <a href="http://www.last.fm/tag/punk" class="bbcode_tag" rel="tag">punk</a>, <a href="http://www.last.fm/tag/sludge" class="bbcode_tag" rel="tag">sludge</a>, <a href="http://www.last.fm/tag/doom%20metal" class="bbcode_tag" rel="tag">doom metal</a>, <a href="http://www.last.fm/tag/drone" class="bbcode_tag" rel="tag">drone</a>, <a href="http://www.last.fm/tag/pop" class="bbcode_tag" rel="tag">pop</a>, <a href="http://www.last.fm/tag/noise" class="bbcode_tag" rel="tag">noise</a>, <a href="http://www.last.fm/tag/shoegaze" class="bbcode_tag" rel="tag">shoegaze</a>, and <a href="http://www.last.fm/tag/ambient" class="bbcode_tag" rel="tag">ambient</a>.  The band's name is taken from a song on <a href="http://www.last.fm/music/Melvins" class="bbcode_artist">Melvins</a>' album, <a title="Melvins - Bullhead" href="http://www.last.fm/music/Melvins/Bullhead" class="bbcode_album">Bullhead</a>. 
+
+        <a href="http://www.last.fm/music/Boris">Read more about Boris on Last.fm</a>.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+    </content>
+            <placeformed>Tokyo</placeformed>                        <yearformed>1992</yearformed>
+            <formationlist>
+                    <formation>
+                <yearfrom>1992</yearfrom>
+                <yearto></yearto>
+            </formation>
+            </formationlist>
+      </bio>
+  </artist></lfm>
+)
+ * experimental (http://www.last.fm/music/Boris)
+ * sludge (http://www.last.fm/music/Boris+With+Merzbow)
+ * doom metal (http://www.last.fm/music/Boris+with+Michio+Kurihara)
+
+http://www.last.fm/music/Boris

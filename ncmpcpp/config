@@ -1,0 +1,41 @@
+user_interface = "alternative"
+
+playlist_display_mode = "columns"
+browser_display_mode = "columns"
+search_engine_display_mode = "columns"
+playlist_editor_display_mode = "columns"
+
+statusbar_visibility = "no"
+header_visibility = "no"
+titles_visibility = "no"
+
+ncmpc_like_songs_adding = "yes"
+ignore_leading_the = "yes"
+mouse_support = "yes"
+playlist_shorten_total_times = "yes"
+
+header_window_color = "white"
+main_window_highlight_color = "black"
+progressbar_color = "blue"
+progressbar_look = "߀߀߁"
+progressbar_elapsed_color = "blue"
+visualizer_color = "magenta"
+display_volume_level = "no"
+clock_display_seconds = "yes"
+
+song_list_format = "{$7%a$9 }{$5%t$9}|{$8%f$9}{$R$6%b$9}"
+song_window_title_format = "{%b}|{%f} - ncmpcpp"
+song_columns_list_format = "(20)[red]{a} (42)[blue]{t|f} (10)[magenta]{br}"
+
+alternative_header_first_line_format = "$/b$b$1$/b$5$b{%t}|{%f}$1$/b$b$/r$1$9$1$/b$b"
+alternative_header_second_line_format = "$/b$b$1[$/b{{$2$b%a$1$b} - $/b$6{%b}}|{%D}$/b$b$1]$9$1$/b$b"
+
+playlist_disable_highlight_delay = "1"
+
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_output_name = "my_fifo"
+visualizer_sync_interval = "4"
+visualizer_type = "wave"
+#visualizer_type = "spectrum"
+visualizer_look = "߂▋" 
+
