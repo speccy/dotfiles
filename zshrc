@@ -22,7 +22,9 @@ alias save="-e 'optipng $f'"
 alias sprunge="curl -F 'sprunge=<-' http://sprunge.us"
 alias screenfetch="screenfetch -c 12"
 alias push="git push" $1 "master"
-
+alias ga="git add"
+alias gr="git rm"
+alias gc="git commit -m"
 
 ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets pattern cursor)
 
