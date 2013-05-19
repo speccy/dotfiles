@@ -1,0 +1,64 @@
+!Settings
+urxvt*scrollBar : false
+urxvt*cursorUnderline : true
+urxvt*cursorColor: #1b1e21
+urxvt*pointerBlank : true
+
+Xft*autohint : 0
+Xft*lcdfilter : lcddefault
+Xft*hintstyle : hintfull
+Xft*hinting : 1
+Xft*antialias : 1
+!Xft*dpi : 96
+Xft*rgba : rgb
+
+!Extensions
+urxvt*urlLauncher: /usr/bin/firefox-nightly
+urxvt.perl-ext-common: default,matcher
+urxvt*matcher*button: 1
+
+!Fonts
+urxvt*font : xft:berry:pixelsize=11,antialias=false
+urxvt*boldFont : xft:berry:pixelsize=11,antialias=false
+urxvt*intensityStyles : true
+
+urxvt*background:	#1b1e21
+urxvt*foreground:	#b8b8ba
+
+urxvt*color235:     #23282b
+urxvt*color237:     #373b40
+urxvt*color238:     #40444a
+urxvt*color240:     #545961
+urxvt*color242:     #5D626B
+!white
+urxvt*color7: #757575
+urxvt*color15: #b5b5b5
+
+!black
+urxvt*color0: #323232 
+urxvt*color8: #545454
+
+
+!red
+*color1:    #7F4F5F
+*color9:    #C0728C
+
+!green
+*color2:    #69816E
+*color10:    #88A08E
+
+!orange
+*color3:    #C79F7D
+*color11:    #E0BD9F
+
+!blue
+*color4:    #627184
+*color12:    #96A1B2
+
+!purple
+*color5:    #706389
+*color13:    #A194BA
+
+!cyan
+*color6:    #50757E
+*color14:    #68939E
