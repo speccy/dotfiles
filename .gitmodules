@@ -1,3 +1,6 @@
 [submodule "config/awesome/daze"]
 	path = config/awesome/daze
 	url = git://github.com/speccy/daze
+[submodule "zprezto"]
+	path = zprezto
+	url = git://github.com/speccy/prezto
