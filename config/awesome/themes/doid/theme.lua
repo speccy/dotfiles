@@ -30,7 +30,6 @@ theme.border_marked = "#91231c"
 
 theme.useless_gap_width = "25"
 theme.lower_window_height = "70"
-theme.vertical_resolution = "1080"
 theme.val = "4"
 --theme.vertical_border = "1"
 --theme.outer_padding = "4"
