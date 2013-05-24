@@ -313,13 +313,23 @@ globalkeys = awful.util.table.join(
     awful.key({ modkey,           }, "Escape", awful.tag.history.restore),
     awful.key({ modkey,           }, "d", 
             function () 
-                daze.util.increment(beautiful.lower_window_height, 11)
+                beautiful.lower_window_height = beautiful.lower_window_height + 11
                 awful.layout.set(awful.layout.get(), tags[1][1])
             end),
     awful.key({ modkey, "Shift"   }, "d", 
             function () 
                 beautiful.lower_window_height = beautiful.lower_window_height - 11
                 awful.layout.set(awful.layout.get(), tags[1][1])
+            end),
+    awful.key({ modkey, "Control" }, "d",
+            function()
+                if beautiful.lower_window_height == 0 then
+                    beautiful.lower_window_height = beautiful.lower_window_height
+                    awful.layout.set(awful.layout.get(), tags[1][1])
+                else
+                    beautiful.lower_window_height = 0
+                    awful.layout.set(awful.layout.get(), tags[1][1])
+                end
             end),
     awful.key({ modkey,           }, "g", 
             function () 
@@ -376,8 +386,8 @@ globalkeys = awful.util.table.join(
     awful.key({ modkey, "Control" }, "r", awesome.restart),
     awful.key({ modkey, "Shift"   }, "q", awesome.quit),
 
-    awful.key({ modkey,           }, "l",     function () awful.tag.incmwfact( 0.05)    end),
-    awful.key({ modkey,           }, "h",     function () awful.tag.incmwfact(-0.05)    end),
+    awful.key({ modkey,           }, "l",     function () awful.tag.incmwfact( 0.025)    end),
+    awful.key({ modkey,           }, "h",     function () awful.tag.incmwfact(-0.025)    end),
     awful.key({ modkey, "Shift"   }, "h",     function () awful.tag.incnmaster( 1)      end),
     awful.key({ modkey, "Shift"   }, "l",     function () awful.tag.incnmaster(-1)      end),
     awful.key({ modkey, "Control" }, "h",     function () awful.tag.incncol( 1)         end),
@@ -417,9 +427,6 @@ clientkeys = awful.util.table.join(
                                                    end    
                                                end                        ),
     awful.key({ modkey,           }, "t",      function (c) c.ontop = not c.ontop            end),
-    
-    awful.key({ modkey,           }, "y",   function (c) daze.util.move(c,10,10) end),
-    
     awful.key({ modkey,           }, "n",
         function (c)
             -- The client currently has the input focus, so it cannot be
