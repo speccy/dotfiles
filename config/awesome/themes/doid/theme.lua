@@ -29,7 +29,7 @@ theme.border_focus  = "#B6C2CC"
 theme.border_marked = "#91231c"
 
 theme.useless_gap_width = "25"
-theme.lower_window_height = "70"
+theme.lower_window_height = "304"
 theme.vertical_resolution = "1080"
 theme.val = "4"
 --theme.vertical_border = "1"
@@ -90,7 +90,7 @@ theme.titlebar_maximized_button_focus_inactive  = "/home/specy/.config/awesome/t
 theme.titlebar_maximized_button_normal_active = "/home/specy/.config/awesome/themes/doid/titlebar/maximized_normal_active.png"
 theme.titlebar_maximized_button_focus_active  = "/home/specy/.config/awesome/themes/doid/titlebar/maximized_focus_active.png"
 
-theme.wallpaper = "/home/specy/Pictures/bg.jpg"
+theme.wallpaper = "/home/specy/Pictures/bg.png"
 
 -- You can use your own layout icons like this:
 theme.layout_fairh = "/home/specy/.config/awesome/themes/doid/layouts/fairhw.png"

@@ -61,6 +61,7 @@ local layouts =
     awful.layout.suit.floating,
     daze.layout.fixed,
     daze.layout.fixed_alt,
+    daze.layout.fixed_alt2,
     daze.layout.tile,
     awful.layout.suit.tile,
     awful.layout.suit.tile.left,
@@ -426,6 +427,16 @@ clientkeys = awful.util.table.join(
                                                        awful.layout.set(awful.layout.get(), tags[1][1])
                                                    end    
                                                end                        ),
+
+   awful.key({ modkey, "Control"   }, "o",      function (c) 
+                                                   if c.border_width == 0 then
+                                                       c.border_width = beautiful.border_width
+                                                       awful.layout.set(awful.layout.get(), tags[1][1])
+                                                   else
+                                                       c.border_width = 1 
+                                                       awful.layout.set(awful.layout.get(), tags[1][1])
+                                                   end    
+                                               end       ),                                       
     awful.key({ modkey,           }, "t",      function (c) c.ontop = not c.ontop            end),
     awful.key({ modkey,           }, "n",
         function (c)
