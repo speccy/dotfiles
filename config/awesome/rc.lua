@@ -98,7 +98,7 @@ end
 --set the layout
 awful.layout.set(daze.layout.fixed, tags[1][1]) 
 --set master window width in percentage
-awful.tag.setmwfact(0.7, tags[1][1])
+awful.tag.setmwfact(0.70001, tags[1][1])
 --set number of column windows
 awful.tag.setncol(1, tags[1][1])
 
@@ -420,7 +420,7 @@ clientkeys = awful.util.table.join(
     awful.key({ modkey, "Control" }, "Return", function (c) c:swap(awful.client.getmaster()) end),
     awful.key({ modkey,           }, "o",      function (c) 
                                                    if c.border_width == 0 then
-                                                       c.border_width = beautiful.border_width
+                                                       c.border_width = 2
                                                        awful.layout.set(awful.layout.get(), tags[1][1])
                                                    else
                                                        c.border_width = 0 
@@ -431,9 +431,12 @@ clientkeys = awful.util.table.join(
    awful.key({ modkey, "Control"   }, "o",      function (c) 
                                                    if c.border_width == 0 then
                                                        c.border_width = beautiful.border_width
+                                                       c.border_color = beautiful.border_normal
                                                        awful.layout.set(awful.layout.get(), tags[1][1])
                                                    else
                                                        c.border_width = 1 
+                                                       c.border_color = "#373b40"
+                                                      
                                                        awful.layout.set(awful.layout.get(), tags[1][1])
                                                    end    
                                                end       ),                                       
@@ -515,8 +518,10 @@ awful.rules.rules = {
       properties = { floating = true } },
     { rule = { class = "gimp" },
       properties = { floating = true } },
---    { rule = { class = "Firefox" },
---      properties = { border_width = 0, } },
+    { rule = { class = "URxvt" },
+      properties = { border_width = 2, } },
+    { rule = { class = "Firefox" },
+      properties = { border_width = 2, } },
     -- Set Firefox to always map on tags number 2 of screen 1.
     -- { rule = { class = "Firefox" },
     --   properties = { tag = tags[1][2] } },

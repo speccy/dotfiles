@@ -18,7 +18,7 @@ theme.fg_focus      = "#cfcfcf"
 theme.fg_urgent     = "#cfcfcf"
 theme.fg_minimize   = "#cfcfcf"
 
-theme.border_width  = 2
+theme.border_width  = 0
 --theme.border_normal = "#494e52"
 --theme.border_normal = "#4B5054"
 theme.border_normal = "#7D858C"
@@ -28,8 +28,8 @@ theme.border_focus  = "#B6C2CC"
 
 theme.border_marked = "#91231c"
 
-theme.useless_gap_width = "25"
-theme.lower_window_height = "304"
+theme.useless_gap_width = "36"
+theme.lower_window_height = "73"
 theme.vertical_resolution = "1080"
 theme.val = "4"
 --theme.vertical_border = "1"
